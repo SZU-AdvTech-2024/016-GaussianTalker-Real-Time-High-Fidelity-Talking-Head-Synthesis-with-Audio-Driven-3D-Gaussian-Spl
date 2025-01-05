@@ -1,0 +1,6 @@
+@article{REPO016,
+    author = "Cho, Kyusun and Lee, Joungbin and Yoon, Heeji and Hong, Yeobin and Ko, Jaehoon and Ahn, Sangjun and Kim, Seungryong",
+    journal = "arXiv preprint arXiv:2404.16012",
+    title = "{GaussianTalker: Real-Time High-Fidelity Talking Head Synthesis with Audio-Driven 3D Gaussian Splatting}",
+    year = "2024"
+}
